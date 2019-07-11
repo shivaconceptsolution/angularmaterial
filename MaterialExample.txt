@@ -1,0 +1,14 @@
+command for angular material stable version
+
+first check angular version not CLI version
+
+npm install @angular/material@5.2.4 --save
+
+npm install @angular/cdk@5.2.4 --save
+
+import this line of style.css
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+add BrowserAninationModule in Page 
